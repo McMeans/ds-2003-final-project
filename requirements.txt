@@ -2,4 +2,6 @@ pandas
 requests
 beautifulsoup4
 lxml
+matplotlib
+scikit-learn
 
